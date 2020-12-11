@@ -37,6 +37,7 @@ body{
     padding: 50px;
     text-align: center;
     font-size: 25px;
+    background: linear-gradient(aquamarine 0%, lightgreen 100%);
 }
 #head1{
     font-size: 35px;
@@ -76,4 +77,10 @@ body{
 #para1{
     font-family: 'Patrick Hand', cursive;
     
+}
+.book{
+    width:300px;
+    margin-bottom: 70px;
+    background-color: black;
+    padding: 3px;
 }
